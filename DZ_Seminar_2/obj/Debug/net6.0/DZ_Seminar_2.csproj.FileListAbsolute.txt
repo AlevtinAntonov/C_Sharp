@@ -1,0 +1,15 @@
+/home/alevtin/C_Sharp/DZ_Seminar_2/bin/Debug/net6.0/DZ_Seminar_2
+/home/alevtin/C_Sharp/DZ_Seminar_2/bin/Debug/net6.0/DZ_Seminar_2.deps.json
+/home/alevtin/C_Sharp/DZ_Seminar_2/bin/Debug/net6.0/DZ_Seminar_2.runtimeconfig.json
+/home/alevtin/C_Sharp/DZ_Seminar_2/bin/Debug/net6.0/DZ_Seminar_2.dll
+/home/alevtin/C_Sharp/DZ_Seminar_2/bin/Debug/net6.0/DZ_Seminar_2.pdb
+/home/alevtin/C_Sharp/DZ_Seminar_2/obj/Debug/net6.0/DZ_Seminar_2.csproj.AssemblyReference.cache
+/home/alevtin/C_Sharp/DZ_Seminar_2/obj/Debug/net6.0/DZ_Seminar_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/alevtin/C_Sharp/DZ_Seminar_2/obj/Debug/net6.0/DZ_Seminar_2.AssemblyInfoInputs.cache
+/home/alevtin/C_Sharp/DZ_Seminar_2/obj/Debug/net6.0/DZ_Seminar_2.AssemblyInfo.cs
+/home/alevtin/C_Sharp/DZ_Seminar_2/obj/Debug/net6.0/DZ_Seminar_2.csproj.CoreCompileInputs.cache
+/home/alevtin/C_Sharp/DZ_Seminar_2/obj/Debug/net6.0/DZ_Seminar_2.dll
+/home/alevtin/C_Sharp/DZ_Seminar_2/obj/Debug/net6.0/refint/DZ_Seminar_2.dll
+/home/alevtin/C_Sharp/DZ_Seminar_2/obj/Debug/net6.0/DZ_Seminar_2.pdb
+/home/alevtin/C_Sharp/DZ_Seminar_2/obj/Debug/net6.0/DZ_Seminar_2.genruntimeconfig.cache
+/home/alevtin/C_Sharp/DZ_Seminar_2/obj/Debug/net6.0/ref/DZ_Seminar_2.dll
