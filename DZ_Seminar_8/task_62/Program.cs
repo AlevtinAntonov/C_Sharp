@@ -35,6 +35,7 @@ for (int i = 0; i < matrix.Length; i++)
 
 Console.WriteLine($"Спирально заполненный массив размером {matrixRow} на {matrixColumn}");
 Console.WriteLine();
+
 PrintArray(matrix);
 
 void PrintArray(int[,] printArray)
